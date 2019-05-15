@@ -42,7 +42,7 @@ python visualize_predict.py
 
 # References
 
-Blog Post detailing how the hardware and software communicate - [Communicating between RC Car and the On-board Computer - Jabelone](http://jabelone.com.au/blog/make-autonomous-car-code-included/)
+Blog Post detailing how the hardware and software communicate - [Communicating between RC Car and the On-board Computer - Jabelone](https://web.archive.org/web/20161013154031/http:/jabelone.com.au/blog/make-autonomous-car-code-included/)
 
 
 Communication between hardware and software repo - [car-controller](https://github.com/jabelone/car-controller)
